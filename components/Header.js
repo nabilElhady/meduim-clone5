@@ -9,7 +9,7 @@ const Header = () => {
           <img
             src="https://i.ibb.co/s38hqSN/Medium-Logo-Black-CMYK-1x.png"
             className="w-44 object-contain cursor-pointer"
-            alt=""
+            alt="pic"
           />
         </Link>
         <div className="hidden md:inline-flex space-x-5 items-center">
